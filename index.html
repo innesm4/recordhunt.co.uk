@@ -1,9 +1,9 @@
 ---
 layout: home
-title: BLOG
-description: "The personal blog of Hossain Mohd. Faysal, a doctoral candidate in Electrical Engineering at University of Pennsylvania."
-headline: An Engineer's Diary
-tags: [Hossain, Mohd, Faysal, electrical, engineering, blog, university, pennsylvania, doha, Qatar]
+title: Discover new techno records and mixes
+description: ""
+headline: Recordhunt
+tags: [techno, house, mixes, records]
 ---
 {% if site.paginate %}
 	{% for post in paginator.posts %}
@@ -30,10 +30,13 @@ tags: [Hossain, Mohd, Faysal, electrical, engineering, blog, university, pennsyl
             </header>
             <section class="notepad-post-excerpt">
                 <p>{{ post.content | strip_html | truncatewords:40 }}</p>
+                
             </section>
             
                 <div class="notepad-index-post-tags">
-                {% for tag in post.categories %}<a href="{{ site.url }}/categories/index.html#{{ post.categories | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} category">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
+                 <a href="{{ site.url }}{{ post.url }}">
+                        Read review
+                    </a>
                     
                 </div>
             
