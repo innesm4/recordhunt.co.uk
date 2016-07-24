@@ -26,9 +26,7 @@ The mix opens with a contender for track of 2015, DJ Koze's amazing XTC and feat
 <br>
 We already had this mix on repeat listening at Recordhunt HQ, providing a showcase of why Papa Sven is still the king of Monday's on the White Isle.
 
-<a href="https://itunes.apple.com/gb/album/in-mix-sound-sixteenth-season/id1048687890">Download from iTunes here</a> or 
-
-<a rel="nofollow" href="http://www.amazon.co.uk/gp/product/B016JCBWBI/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B016JCBWBI&linkCode=as2&tag=rechun02-21">order a physical copy from Amazon here.</a><img src="http://ir-uk.amazon-adsystem.com/e/ir?t=rechun02-21&l=as2&o=2&a=B016JCBWBI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://itunes.apple.com/gb/album/in-mix-sound-sixteenth-season/id1048687890">Download from iTunes here</a> or <a rel="nofollow" href="http://www.amazon.co.uk/gp/product/B016JCBWBI/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B016JCBWBI&linkCode=as2&tag=rechun02-21">order a physical copy from Amazon here.</a><img src="http://ir-uk.amazon-adsystem.com/e/ir?t=rechun02-21&l=as2&o=2&a=B016JCBWBI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Full track listing below:
 
