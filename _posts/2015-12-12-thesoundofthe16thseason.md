@@ -12,8 +12,6 @@ chart:
 comments: true
 featured: true
 ---
-
-
 ### With another Ibiza season over, Sven Väth has released a two-disc mix containing the biggest tracks from his Cocoon residency.
 
 
@@ -79,9 +77,9 @@ Disc: 2
 14. New Sun Spot - Dimi Angélis
 15. Synchrotonic - Petar Dundov
 
-###Our Rating:
+### Our Rating:
 
-#9.5/10
+# 9.5/10
 
 <p>
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=rechun02-21&marketplace=amazon&region=GB&placement=B016JCBWBI&asins=B016JCBWBI&linkId=&show_border=true&link_opens_in_new_window=true">
